@@ -69,7 +69,7 @@ pull request you grant the project owner and maintainers a license to use and
 incorporate your contribution (see `LICENSE.md` for the exact language).
 
 If you'd like permission to use or redistribute the code for another project,
-please contact the repository owner to request a license.
+please contact @we09532 to request a license.
 
 ## Acknowledgments
 
