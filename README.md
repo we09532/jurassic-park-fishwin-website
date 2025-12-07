@@ -60,7 +60,16 @@ Contributions are welcome! If you have suggestions or improvements, please feel 
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is proprietary. See `LICENSE.md` for full terms.
+
+In short: the code in this repository is not available for reuse, redistribution,
+or derivative works without explicit written permission from the copyright
+holder. However, contributions via pull requests are welcome. By submitting a
+pull request you grant the project owner and maintainers a license to use and
+incorporate your contribution (see `LICENSE.md` for the exact language).
+
+If you'd like permission to use or redistribute the code for another project,
+please contact the repository owner to request a license.
 
 ## Acknowledgments
 
